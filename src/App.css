@@ -1,0 +1,8 @@
+main {
+  height: 100%;
+  transition: 500ms;
+  background: #fff;
+  overflow: hidden;
+  padding: 0;
+  display: block;
+}
